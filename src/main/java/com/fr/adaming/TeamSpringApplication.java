@@ -29,6 +29,7 @@ public class TeamSpringApplication {
 			log.warn("Message de log (WARN)");
 			log.error("Message de log (ERROR)");
 			log.fatal("Message de log (FATAL)");
+			System.out.println("test");
 
 	}
 
